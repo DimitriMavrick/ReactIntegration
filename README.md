@@ -1,1 +1,1 @@
-# ReactIntegration
+# HumanityCoin
